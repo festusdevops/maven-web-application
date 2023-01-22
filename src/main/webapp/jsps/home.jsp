@@ -14,10 +14,8 @@
 	           We are raising millionaires in IT automation.
 	We offer Training for DevOps with Linux and Cloud equipping IT Engineers for best performance.</h1>
 	<h2>We are Developing and supporting toyota mobile application.</h2>
-	<h4>
-		You are watching this from our end-to-end Jenkins deployment into our toyota application servers.
-		--------------Hope you engoy your stay here! -------------------
-	</h4>
+	<h4>You are watching this from our end-to-end Jenkins deployment into our toyota application servers.</h4>
+	<h4>------------ Hope you enjoy your stay here with us. -----------------------------.</h4>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
