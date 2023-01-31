@@ -103,7 +103,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository</name>
-	      <url>http://3.83.4.44:8181/repository/uat-toyota/</url>
+	      <url>http://44.204.107.172:8181/repository/prod-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
